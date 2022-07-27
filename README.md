@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.0",
+  "Version": "2.3.0",
   "ReleaseNotes": "Nova Atualização Disponível ",
   "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=17235",
   "Sms": "",
@@ -40,7 +40,7 @@
 
 "Networks": [
    {
-      "Name": "💙TIM CLOUD top",
+      "Name": "💙TIM CLOUD JARDELNET",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
@@ -50,7 +50,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "💙TIM RAIO top",
+      "Name": "💙TIM RAIO JARDELNET",
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
