@@ -1,7 +1,7 @@
 {
   "Version": "2.3.0",
   "ReleaseNotes": "Nova Atualização Disponível ",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=17235",
+  "UrlUpdate": "https://github.com/Jardelnet/Jardelnet/edit/main/README.md",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/jardel2net_bot",
